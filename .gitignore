@@ -1,0 +1,21 @@
+# Data
+designs/
+designs_filtered/
+*.pdb
+!examples/*.pdb
+
+# Output
+summary.csv
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/

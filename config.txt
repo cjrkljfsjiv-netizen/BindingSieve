@@ -1,0 +1,8 @@
+# Target chain ID
+chain=A
+
+# Hotspot residue numbers (comma-separated)
+residues=86
+
+# Distance cutoff in angstroms
+cutoff=4.5
