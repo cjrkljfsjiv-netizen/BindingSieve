@@ -11,6 +11,8 @@ contacts is generated.
 ## Quick start
 
 ```bash
+git clone https://github.com/cjrkljfsjiv-netizen/BindingSieve.git
+cd BindingSieve
 pip install -r requirements.txt
 
 # 1. Put your PDB files in a directory (default: designs/)
